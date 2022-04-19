@@ -1,45 +1,63 @@
-# ![image_add]
+<div id="top"></div>
 
-## Project (Group D) - City Revitalisation
+<h1 align="center">PERSONAL TRIP PLANNER</h1>
+<h3 align="center">Using NSW Transport APIs </h3>
 
+<div align="center">  
+    <section><img src="Images/logo2.jpg"/></section><br>
+    <section><img src="Images/QR-code.png"/></section>
+    <section> <b> GROUP D PROJECT </b> </section>
+</div>
+
+
+
+<br><br>
+<div align="center">
+———————— ≡₪₪₪₪≡≡₪₪₪₪≡ ————————
+
+<!-- TABLE OF CONTENTS -->
+<details align="center">
+  <summary> <b>Table of Contents</b></summary>
+  <ul>
+        <li><a href="#Glance"> At A Glance</a> </li>   
+        <li><a href="#GettingStarted">Getting Started</a></li>
+        <li><a href="#Analysis"> Breakdown of Analysis</a></li>
+        <li><a href="#Graphs">Analysis Graphs</a></li>  
+        <li><a href="#Summary">Summary</a></li>    
+        <li><a href="#Tech">Technologies Used</a></li>
+        <li><a href="#Authors">Authors</a></li>
+  </ul>
+</details>
+———————— ≡₪₪₪₪≡≡₪₪₪₪≡ ————————
+</div><br>
+
+<div id="Glance">
+
+## At A Glance    
+
+    
 add synopsis here 
 
+</div><br>
+
+
+<div id="GettingStarted">
+    
 ## Getting Started
 
+    
 instructrions to view coding and final project here.
-
-## PDF Files of Research and Presentation
-
-Here are the PDF files of the market research and presentation we created to compliment the data anaylsis. You can click them below or find them above!
+      
+</div><br>
 
 
-## Built With
-Jupyter-lab
 
-Python
 
-add more here
-
-## Research Questions
-What is ...
-```
-
-```
-What is ...
-```
-
-```
-What is ...
-```
-
-```
-## Summary of findings
-> Add sumamry here
-
-> Add sumamry here
-
+<div id="Analysis">
+    
 ## Breakdown of analysis
 
+    
 **What is ...**
 
 Summary of section
@@ -84,29 +102,72 @@ Add method here
 Add conclusion here
 
 ![image_add]()
- 
+    
+<div align="right">(<a href="#top">Back to top</a>)</div>
+</div><br>
+
+
+
+<div id="Graphs">
+    
 ## Example Analysis Graphs
 
-![image_add]()
 
-![image_add]()
+<div align="center">  
+    <section><img src="Images/elbow_1.png"/></section>
+    <section><img src="Images/carspace_1.png"/></section>
+    <section><img src="Images/carspace_2.png"/></section>
+    <section><img src="Images/carspace_3.png"/></section>
+</div>
+    
 
-## Version Control
+<div align="right">(<a href="#top">Back to top</a>)</div>
+    
+</div><br>
 
-Two main branches used for version control.
-Main and add-new-sub.
 
-The team utilised the "add-new-sub" branch to input changes created before pushing into the main branch.
+<div id="Summary">
 
-## Contributing Sources
+## Summary of Findings
 
-List of sources here
+    
+> Add sumamry here
 
+> Add sumamry here
+
+    
+</div><br>
+
+
+<div id="Tech">
+    
+## Technologies Used
+ 
+    
+Jupyter-lab
+
+Python
+    
+Scikit-learn
+    
+Keras
+
+add more here
+
+</div><br>
+
+<div id="Authors">
+    
 ## Authors
-Ebad Salehi
-
+    
 Hari Krishna Kolli
 
 Dorothy Doutre
 
+Ebad Salehi
+
 Shavan Patel
+
+<div align="right">(<a href="#top">Back to top</a>)</div>
+    
+</div><br>

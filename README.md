@@ -34,7 +34,7 @@
 <div id="Glance">
 
 ## At A Glance    
-<hr>
+
     
 In This project, we used NSW Public Transport API and available CSV data to feed Machine Learning algorithms for predicting Carspace availibity and Train Occupancy. 
 
@@ -44,7 +44,7 @@ In This project, we used NSW Public Transport API and available CSV data to feed
 <div id="GettingStarted">
     
 ## Getting Started
-<hr>
+
     
 instructrions to view coding and final project here.
       
@@ -56,7 +56,7 @@ instructrions to view coding and final project here.
 <div id="LSTM">
     
 ## LSTM Results
-<hr>
+
 
 Different configuration of LSTM model, resulted in the following charts:
 <div align="center">  
@@ -78,7 +78,7 @@ Different configuration of LSTM model, resulted in the following charts:
 <div id="Graphs">
     
 ## Example Analysis Graphs
-<hr>
+
 
 <div align="center">  
     <section><img src="Images/elbow_1.png"/></section>
@@ -96,7 +96,7 @@ Different configuration of LSTM model, resulted in the following charts:
 <div id="Summary">
 
 ## Summary of Findings
-<hr>
+
     
 > High Accuracy Predictions for Car Space Availability
 
@@ -109,7 +109,7 @@ Different configuration of LSTM model, resulted in the following charts:
 <div id="Tech">
     
 ## Technologies Used
-<hr>  
+  
     
 Jupyter-lab
 
@@ -126,7 +126,7 @@ add more here
 <div id="Authors">
     
 ## Authors
-<hr>
+
     
 Hari Krishna Kolli
 

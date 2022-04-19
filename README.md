@@ -34,7 +34,7 @@
 <div id="Glance">
 
 ## At A Glance    
-<hr>
+
     
 add synopsis here 
 
@@ -44,7 +44,7 @@ add synopsis here
 <div id="GettingStarted">
     
 ## Getting Started
-<hr>
+
     
 instructrions to view coding and final project here.
       
@@ -56,7 +56,7 @@ instructrions to view coding and final project here.
 <div id="Analysis">
     
 ## Breakdown of analysis
-<hr>
+
     
 **What is ...**
 
@@ -111,7 +111,7 @@ Add conclusion here
 <div id="Graphs">
     
 ## Example Analysis Graphs
-<hr>
+
 
 <div align="center">  
     <section><img src="Images/elbow_1.png"/></section>
@@ -129,7 +129,7 @@ Add conclusion here
 <div id="Summary">
 
 ## Summary of Findings
-<hr>
+
     
 > Add sumamry here
 
@@ -142,7 +142,7 @@ Add conclusion here
 <div id="Tech">
     
 ## Technologies Used
-<hr>  
+ 
     
 Jupyter-lab
 
@@ -159,7 +159,6 @@ add more here
 <div id="Authors">
     
 ## Authors
-<hr>
     
 Hari Krishna Kolli
 

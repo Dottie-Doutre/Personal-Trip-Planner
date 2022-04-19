@@ -4,7 +4,7 @@
 <h3 align="center">Using NSW Transport APIs </h3>
 
 <div align="center">  
-    <section><img src="Images/logo2.jpg"/></section>
+    <section><img src="Images/logo2.jpg"/></section><br>
     <section><img src="Images/QR-code.png"/></section>
     <section> <b> GROUP D PROJECT </b> </section>
 </div>

@@ -14,14 +14,14 @@
 <br><br>
 <div align="center">
 ———————— ≡₪₪₪₪≡≡₪₪₪₪≡ ————————
-<br>
+
 <!-- TABLE OF CONTENTS -->
 <details align="center">
   <summary> <b>Table of Contents</b></summary>
   <ul>
         <li><a href="#Glance"> At A Glance</a> </li>   
         <li><a href="#GettingStarted">Getting Started</a></li>
-        <li><a href="#LSTM"> LSTM Results</a></li>
+        <li><a href="#Analysis"> Breakdown of Analysis</a></li>
         <li><a href="#Graphs">Analysis Graphs</a></li>  
         <li><a href="#Summary">Summary</a></li>    
         <li><a href="#Tech">Technologies Used</a></li>
@@ -34,9 +34,9 @@
 <div id="Glance">
 
 ## At A Glance    
-
+<hr>
     
-In This project, we used NSW Public Transport API and available CSV data to feed Machine Learning algorithms for predicting Carspace availibity and Train Occupancy. 
+add synopsis here 
 
 </div><br>
 
@@ -44,7 +44,7 @@ In This project, we used NSW Public Transport API and available CSV data to feed
 <div id="GettingStarted">
     
 ## Getting Started
-
+<hr>
     
 instructrions to view coding and final project here.
       
@@ -53,26 +53,55 @@ instructrions to view coding and final project here.
 
 
 
-<div id="LSTM">
+<div id="Analysis">
     
-## LSTM Results
+## Breakdown of analysis
+<hr>
+    
+**What is ...**
+
+Summary of section
+
+Data source - 
+
+```
+Add method here
+```
+***Conclusion:***
+
+Add conclusion here
 
 
-Different configuration of LSTM model, resulted in the following charts:
-<div align="center">  
-    <section>
-        <img src="Findings/carspaces.png"/>
-        <img src="Findings/carspaces_180_90.png"/>
-    </section>
-    <section>
-        <img src="Findings/carspaces_300_10.png"/>
-        <img src="Findings/carspaces_forecast.png"/>
-    </section>
-    <section>
-        <img src="Images/predictions.png"/>
-        <img src="Images/forecasts.png"/>
-    </section>
-</div>
+**What is ...**
+
+Sumamry of section
+
+Data source -
+
+```
+Add method here
+```
+***Conclusion:***
+
+Add conclusion here
+
+
+![image_add]()
+
+
+**What is ...**
+
+Sumamry of section 
+
+Data source - 
+```
+Add method here
+```
+***Conclusion:***
+
+Add conclusion here
+
+![image_add]()
     
 <div align="right">(<a href="#top">Back to top</a>)</div>
 </div><br>
@@ -81,13 +110,11 @@ Different configuration of LSTM model, resulted in the following charts:
 
 <div id="Graphs">
     
-## Analysis Graphs
-
+## Example Analysis Graphs
+<hr>
 
 <div align="center">  
     <section><img src="Images/elbow_1.png"/></section>
-    <section><img src="Images/2-cluster.png"/></section>
-    <section><img src="Images/3-cluster.png"/></section>
     <section><img src="Images/carspace_1.png"/></section>
     <section><img src="Images/carspace_2.png"/></section>
     <section><img src="Images/carspace_3.png"/></section>
@@ -102,9 +129,9 @@ Different configuration of LSTM model, resulted in the following charts:
 <div id="Summary">
 
 ## Summary of Findings
-
+<hr>
     
-> High Accuracy Predictions for Car Space Availability
+> Add sumamry here
 
 > Add sumamry here
 
@@ -115,7 +142,7 @@ Different configuration of LSTM model, resulted in the following charts:
 <div id="Tech">
     
 ## Technologies Used
-  
+<hr>  
     
 Jupyter-lab
 
@@ -132,7 +159,7 @@ add more here
 <div id="Authors">
     
 ## Authors
-
+<hr>
     
 Hari Krishna Kolli
 

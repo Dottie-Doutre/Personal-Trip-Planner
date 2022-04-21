@@ -68,6 +68,10 @@ Different configuration of LSTM model, resulted in the following charts:
         <img src="Findings/carspaces_300_10.png"/>
         <img src="Findings/carspaces_forecast.png"/>
     </section>
+    <section>
+        <img src="Images/predictions.png"/>
+        <img src="Images/forecasts.png"/>
+    </section>
 </div>
     
 <div align="right">(<a href="#top">Back to top</a>)</div>
@@ -77,11 +81,13 @@ Different configuration of LSTM model, resulted in the following charts:
 
 <div id="Graphs">
     
-## Example Analysis Graphs
+## Analysis Graphs
 
 
 <div align="center">  
     <section><img src="Images/elbow_1.png"/></section>
+    <section><img src="Images/2-cluster.png"/></section>
+    <section><img src="Images/3-cluster.png"/></section>
     <section><img src="Images/carspace_1.png"/></section>
     <section><img src="Images/carspace_2.png"/></section>
     <section><img src="Images/carspace_3.png"/></section>

@@ -49,6 +49,11 @@ In This project, we used NSW Public Transport API and available CSV data to feed
 To view coding please look within the Notebooks folder.
 
 Other folders will contain the resources used, as well as findings and graphs.
+
+PDF version of the presentation is available within the Resources folder.
+
+<div align="center">  
+<section><img src="Images/Pres_image.PNG"/></section>
       
 </div><br>
 

@@ -46,7 +46,9 @@ In This project, we used NSW Public Transport API and available CSV data to feed
 ## Getting Started
 
     
-instructrions to view coding and final project here.
+To view coding please look within the Notebooks folder.
+
+Other folders will contain the resources used, as well as findings and graphs.
       
 </div><br>
 
@@ -106,8 +108,9 @@ Different configuration of LSTM model, resulted in the following charts:
     
 > High Accuracy Predictions for Car Space Availability
 
-> Add sumamry here
-
+> More machine learning models and data prep needed to predict train occupancy
+    
+> Utilising API's and storing real time data at intervals will give the best results for very near future predictions for both car space and trains.
     
 </div><br>
 
